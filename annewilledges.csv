@@ -1,0 +1,53 @@
+id,name,party,sector,country,type
+UL,Ursula von der Leyen,CDU,Politik,Deutschland,1
+LK,Lars Klingbeil,SPD,Politik,Deutschland,1
+NR,Norbert Röttgen,CDU,Politik,Deutschland,1
+SW,Sahra Wagenknecht,Die Linke,Politik,Deutschland,1
+CS,Constanze Stelzenmüller,,Recht,Deutschland,1
+AW,Anne Will,,Journalismus,Deutschland,1
+CL,Christian Lindner,FDP,Politik,Deutschland,1
+KS,Karl Schlögel,,Geschichte,Deutschland,1
+LM,Ljudmyla Melnyk,,Politik,Ukraine,1
+KD,Kristina Dunz,,Journalismus,Deutschland,1
+EG,Egils Levits,,Politik,Lettland,1
+FT,Frans Timmermans,,Politik,Niederlande,1
+AM,Andrij Melnyk,,Politik,Ukraine,1
+AGL,Alexander Graf Lambsdorff,FDP,Politik,Deutschland,1
+ER,Egon Ramms,,Militär,Deutschland,1
+RH,Robert Habeck,Grüne,Politik,Deutschland,1
+CM,Claudia Major,,Politik,Deutschland,1
+KP,Katja Petrowskaja,,Journalismus,Ukraine,1
+RK,Roderich Kiesewetter,CDU,Politik,Deutschland,1
+CLA,Christine Lambrecht,SPD,Politik,Deutschland,1
+CH,Christoph Heusgen,,Politik,Deutschland,1
+MW,Marina Weisband,,Literatur,Ukraine,1
+SB,Stefanie Babst,,Politik,UK ,1
+OS,Olaf Scholz,SPD,Politik,Deutschland,1
+MS,Markus Söder,CSU,Politik,Deutschland,1
+VG,Veronika Grimm,,Wirtschaft,Deutschland,1
+MB,Marieluise Beck,Grüne,Politik,Deutschland,1
+RM,Robin Alexander Michel,,Journalismus,Deutschland,1
+AB,Annalena Baerbock,Grüne,Politik,Deutschland,1
+SE,Saskia Esken,SPD,Politik,Deutschland,1
+MASZ,Marie-Agnes Strack-Zimmermann,FDP,Politik,Deutschland,1
+JW,Johann David Wadephul,CDU,Politik,Deutschland,1
+MF,Markus Feldenkirchen,,Journalismus,Deutschland,1
+KK,Kevin Kühnert,SPD,Politik,Deutschland,1
+BH,Britta Haßelmann,Grüne,Politik,Deutschland,1
+RP,Ruprecht Polenz,CDU,Politik,Deutschland,1
+HW,Prof. Harald Welzer,,Soziologie,Deutschland,1
+CDU,CDU,,,,2
+SPD,SPD,,,,2
+Linke,Die Linke,,,,2
+Grüne,B90 Grüne,,,,2
+CSU,CSU,,,,2
+FDP,FDP,,,,2
+500,2002 Keine Entspannung,,,,3
+501,2702 Putin führt Krieg,,,,3
+502,0603 Krieg gegen die Ukraine,,,,3
+503,1303 Angriff auf die Ukraine,,,,3
+504,2003 Putins Angriff,,,,3
+505,2703 Olaf Scholz zu Gast,,,,3
+506,0404 Streit um russisches Öl,,,,3
+507,0105 Panzer ins Kriegsgebiet,,,,3
+508,0805 Waffen für die Ukraine,,,,3
